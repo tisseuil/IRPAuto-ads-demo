@@ -1,0 +1,1 @@
+SELECT TOP 15 * FROM dbo.T_Dim_Produit ;
