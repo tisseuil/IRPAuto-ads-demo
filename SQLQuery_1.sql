@@ -16,6 +16,7 @@ SELECT --distinct
 	INNER JOIN dbo.T_Dim_Entreprise on Entreprise_FID = Entreprise_ID 
 	where Siret_CODE ='Z1485258520015'
 
+
 --Z1485258520015
 --B0123456789123
 --W1485215210015
